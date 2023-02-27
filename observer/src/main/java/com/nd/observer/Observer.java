@@ -5,5 +5,5 @@ package com.nd.observer;
  * @since 2023
  */
 public interface Observer {
-    void update(float temperature, float humidity, float pressure);
+    void update();
 }
